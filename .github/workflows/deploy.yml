@@ -25,16 +25,16 @@ jobs:
       - name: "📥 Kodu indir"
         uses: actions/checkout@v4
 
-      - name: "⚙️ Node.js kur"
-        uses: actions/setup-node@v4
+      - name: "⚙️ Python kur"
+        uses: actions/setup-python@v5
         with:
-          node-version: "20"
+          python-version: "3.12"
 
       - name: "📦 Bağımlılıkları yükle"
-        run: npm install
+        run: pip install -r requirements.txt
 
       - name: "🔍 Vakaları kontrol et"
-        run: npm test
+        run: pytest --verbose -s
 
   # ─────────────────────────────────────
   # 🚀 Deploy — Tüm Vakalar Doğruysa Yayınla
