@@ -33,7 +33,7 @@ Bu harfleri doğru sıraya koyarak Ada'nın yazdığı kelimeyi bul.
 
 ## ✏️ Cevabını Yaz
 
-`cevaplar.js` dosyasını aç ve `vaka1` satırına cevabını yaz.
+`cevaplar.py` dosyasını aç ve `vaka1` satırına cevabını yaz.
 
 Sonra:
 ```bash

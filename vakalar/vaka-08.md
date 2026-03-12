@@ -54,4 +54,4 @@ Tüm koordinatları çöz ve harfleri sırayla birleştir.
 
 ## ✏️ Cevabını Yaz
 
-`cevaplar.js` dosyasını aç ve `vaka8` satırına bulduğun kelimeyi yaz.
+`cevaplar.py` dosyasını aç ve `vaka8` satırına bulduğun kelimeyi yaz.

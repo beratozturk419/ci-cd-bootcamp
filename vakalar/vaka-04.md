@@ -35,7 +35,7 @@ Veya GitHub'da bir klasöre girdiğinde gizli dosyalar da listelenir.
 
 1. Projenin içindeki gizli dosyayı bul
 2. Dosyayı aç ve içindeki cevabı oku
-3. Cevabı `cevaplar.js` dosyasına yaz
+3. Cevabı `cevaplar.py` dosyasına yaz
 
 > **İpucu:** `vakalar` klasörünün içine dikkatli bak.
 > `ls -a vakalar/` komutu işine yarayabilir.
@@ -43,4 +43,4 @@ Veya GitHub'da bir klasöre girdiğinde gizli dosyalar da listelenir.
 
 ## ✏️ Cevabını Yaz
 
-`cevaplar.js` dosyasını aç ve `vaka4` satırına dosyanın içinde bulduğun cevabı yaz.
+`cevaplar.py` dosyasını aç ve `vaka4` satırına dosyanın içinde bulduğun cevabı yaz.

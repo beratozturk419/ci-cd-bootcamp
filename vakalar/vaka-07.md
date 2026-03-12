@@ -40,4 +40,4 @@ Ada'nın şiirinde gizlenmiş kelimeyi bul.
 
 ## ✏️ Cevabını Yaz
 
-`cevaplar.js` dosyasını aç ve `vaka7` satırına gizli kelimeyi yaz.
+`cevaplar.py` dosyasını aç ve `vaka7` satırına gizli kelimeyi yaz.

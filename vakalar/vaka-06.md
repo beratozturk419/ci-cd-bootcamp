@@ -62,4 +62,4 @@ Her 8'li binary grubu tabloda bul ve karşılık gelen harfi yaz.
 
 ## ✏️ Cevabını Yaz
 
-`cevaplar.js` dosyasını aç ve `vaka6` satırına çözdüğün kelimeyi yaz.
+`cevaplar.py` dosyasını aç ve `vaka6` satırına çözdüğün kelimeyi yaz.

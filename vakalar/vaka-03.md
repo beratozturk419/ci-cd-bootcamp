@@ -53,4 +53,4 @@ Her harfi **3 geri** kaydırarak orijinal kelimeyi bul.
 
 ## ✏️ Cevabını Yaz
 
-`cevaplar.js` dosyasını aç ve `vaka3` satırına cevabını yaz.
+`cevaplar.py` dosyasını aç ve `vaka3` satırına cevabını yaz.

@@ -31,7 +31,7 @@ cd kayip-yazilimcinin-sifresi
 
 ### 3. Bağımlılıkları Yükle
 ```bash
-npm install
+pip install -r requirements.txt
 ```
 
 ### 4. İlk Vakayı Aç
@@ -40,11 +40,11 @@ npm install
 ```
 
 ### 5. Cevabını Yaz
-`cevaplar.js` dosyasını aç, ilgili satıra cevabını yaz.
+`cevaplar.py` dosyasını aç, ilgili satıra cevabını yaz.
 
 ### 6. Test Et ve Push Et
 ```bash
-npm test                                        # yerelde kontrol et
+pytest --verbose -s                             # yerelde kontrol et
 git add . && git commit -m "Vaka 1" && git push # gönder!
 ```
 
@@ -73,7 +73,7 @@ git add . && git commit -m "Vaka 1" && git push # gönder!
 ```
 1. vakalar/ klasöründen bir vaka seç
 2. Bulmacayı oku ve çöz
-3. cevaplar.js dosyasına cevabını yaz
+3. cevaplar.py dosyasına cevabını yaz
 4. git add . && git commit -m "Vaka X" && git push
 5. GitHub Actions sekmesinden sonucu kontrol et
 6. Sonraki vakaya geç!

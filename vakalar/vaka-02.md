@@ -41,4 +41,4 @@ Her sayıyı tablodaki karşılık gelen harfe çevirerek gizli kelimeyi bul.
 
 ## ✏️ Cevabını Yaz
 
-`cevaplar.js` dosyasını aç ve `vaka2` satırına cevabını yaz.
+`cevaplar.py` dosyasını aç ve `vaka2` satırına cevabını yaz.

@@ -54,6 +54,6 @@ seçerek son şifreyi oluşturuyor.
 
 ## ✏️ Cevabını Yaz
 
-`cevaplar.js` dosyasını aç ve `vaka10` satırına 8 harflik son şifreyi yaz.
+`cevaplar.py` dosyasını aç ve `vaka10` satırına 8 harflik son şifreyi yaz.
 
 Tüm cevaplar doğruysa pipeline yeşile dönecek ve siten deploy olacak! 🚀

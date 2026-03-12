@@ -48,4 +48,4 @@ Ada ile en son konuşan kişiyi bulmamız gerekiyor.
 
 ## ✏️ Cevabını Yaz
 
-`cevaplar.js` dosyasını aç ve `vaka5` satırına şüphelinin **adını** yaz.
+`cevaplar.py` dosyasını aç ve `vaka5` satırına şüphelinin **adını** yaz.

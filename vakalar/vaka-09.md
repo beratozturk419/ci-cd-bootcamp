@@ -61,4 +61,4 @@ Her sinyal grubunu Mors tablosunda bul ve karşılık gelen harfi yaz.
 
 ## ✏️ Cevabını Yaz
 
-`cevaplar.js` dosyasını aç ve `vaka9` satırına çözdüğün kelimeyi yaz.
+`cevaplar.py` dosyasını aç ve `vaka9` satırına çözdüğün kelimeyi yaz.

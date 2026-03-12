@@ -29,7 +29,7 @@ ipucu** gizlemiştir. Her ipucu farklı bir yöntemle şifrelenmiştir.
 
 **Senin görevin:**
 1. `vakalar/` klasöründeki her vakayı aç ve bulmacayı çöz
-2. Bulduğun cevabı `cevaplar.js` dosyasına yaz
+2. Bulduğun cevabı `cevaplar.py` dosyasına yaz
 3. `git add . && git commit -m "Vaka X çözüldü" && git push`
 4. GitHub Actions sekmesinden sonucu kontrol et
 5. Tüm vakalar çözüldüğünde Ada'nın mesajı ortaya çıkar ve siten deploy olur!
@@ -37,7 +37,7 @@ ipucu** gizlemiştir. Her ipucu farklı bir yöntemle şifrelenmiştir.
 ---
 
 **⚠️ ÖNEMLİ:** Kod yazmana gerek yok! Sadece bulmacaları çöz ve
-cevapları `cevaplar.js` dosyasına yaz.
+cevapları `cevaplar.py` dosyasına yaz.
 
 **Vakaları sırayla çözmek zorunda değilsin** — istediğinden başlayabilirsin.
 

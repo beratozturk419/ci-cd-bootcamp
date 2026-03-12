@@ -57,7 +57,7 @@ Vaka  5 → "değil"        Vaka 10 → "odur"
 ### Katılımcılara Gönderin
 - GitHub hesabı açsınlar
 - Git kurulumu: https://git-scm.com
-- Node.js 20+: https://nodejs.org
+- Python 3.12+: https://python.org
 - VS Code (veya herhangi bir editör)
 - **GitHub Desktop** (terminal kullanmak istemeyenler için alternatif)
 
@@ -69,8 +69,8 @@ Vaka  5 → "değil"        Vaka 10 → "odur"
 |------|----------|
 | 00-15 | **CI/CD Nedir?** Günlük hayattan benzetme: "Yemek tarifi yazdın, her değişiklikte otomatik tadım yapılıyor. Lezzetliyse otomatik servise çıkıyor." |
 | 15-25 | **Canlı Demo:** Template repo'yu göster, bilerek yanlış cevap yaz, push et, pipeline'ın KIRMIZI olduğunu göster. Sonra doğru cevabı yaz, YEŞİL pipeline + deploy |
-| 25-40 | **Herkes Fork Etsin:** Adım adım ekranı paylaşarak fork → clone → npm install |
-| 40-55 | **İlk Vaka Birlikte:** Vaka 1'i birlikte açın, çözün, `cevaplar.js`'e yazın, birlikte push edin |
+| 25-40 | **Herkes Fork Etsin:** Adım adım ekranı paylaşarak fork → clone → pip install -r requirements.txt |
+| 40-55 | **İlk Vaka Birlikte:** Vaka 1'i birlikte açın, çözün, `cevaplar.py`'ye yazın, birlikte push edin |
 | 55-60 | **Actions Sekmesi:** Herkes kendi Actions sekmesini açsın, 1 testin yeşil olduğunu görsün |
 
 **İpuçları:**
@@ -114,13 +114,13 @@ Vaka  5 → "değil"        Vaka 10 → "odur"
 | Sorun | Çözüm |
 |-------|-------|
 | Fork edemiyor | Email doğrulaması gerekli olabilir |
-| `npm install` hata veriyor | `node -v` kontrol (20+ olmalı) |
+| `pip install` hata veriyor | `python --version` kontrol (3.12+ olmalı) |
 | Push yapamıyor | GitHub credential/token ayarı gerekli |
 | Actions çalışmıyor | Settings → Actions → "Allow all" kontrol |
 | Pages deploy olmuyor | Settings → Pages → Source: "GitHub Actions" seçili mi? |
 | Vaka 4: Gizli dosyayı bulamıyor | `ls -a vakalar/` veya GitHub'da klasöre tıkla |
 | Türkçe karakter sorunu | Test normalizer var, büyük/küçük + Türkçe fark etmez |
-| "npm test: command not found" | Node.js yüklü değil |
+| "pytest: command not found" | Python veya pytest yüklü değil |
 
 ## Canlı Scoreboard Şablonu
 
