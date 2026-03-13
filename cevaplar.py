@@ -41,3 +41,4 @@ cevaplar = {
     "vaka10": "MACERALAR",
 
 }
+#Berat Öztürk
