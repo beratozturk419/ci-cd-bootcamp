@@ -11,7 +11,7 @@
 cevaplar = {
 
     # 🌀 Portal 1 — Hoşgeldin Portalı (Gülşah)
-    "vaka1": "a",
+    "vaka1": "merhaba",
 
     # 🌀 Portal 2 — Sayı Matrisi (Serhat)
     "vaka2": "",
